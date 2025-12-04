@@ -22,6 +22,7 @@ A comprehensive collection of Flutter applications demonstrating the journey fro
 | 10 | [**Onboarding Screens**](https://github.com/thaisangdang/flutter_onboarding_screens_ui) | A smooth 3-page intro tutorial seen in modern apps. <br> **Concepts:** `PageView`, `PageController`, `smooth_page_indicator`. |
 | 11 | [**Todo List**](https://github.com/thaisangdang/flutter_todo_list) | A classic CRUD application for managing daily tasks. <br> **Concepts:** `ListView.builder`, CRUD Operations, Dialogs (`Alert`, `Simple`), State Management. |
 | 12 | [**Digital Clock & Timer**](https://github.com/thaisangdang/flutter_clock_and_timer) | Time management tools handling asynchronous data. <br> **Concepts:** `StreamBuilder` (Live updates), `Timer.periodic`, `intl` date formatting, `TabBar`. |
+| 13 | [**Tic-Tac-Toe**](https://github.com/thaisangdang/flutter_tic_tac_toe) | A classic grid game with win/loss algorithms. <br> **Concepts:** Concepts: `GridView`, Game Logic Algorithms, Dialogs, State Reset. |
 | ...| *More coming soon* | ... |
 
 ## 📘 Master Flutter Architecture
