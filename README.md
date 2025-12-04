@@ -8,63 +8,19 @@ A comprehensive collection of Flutter applications demonstrating the journey fro
 
 ## 📚 Project Index
 
-| #  | Project Name | Key Concepts | Source Code |
-|----|--------------|--------------|-------------|
-| 01 | **Personal Business Card** | Rows, Columns, Assets, Custom Fonts | [View Code](https://github.com/thaisangdang/flutter_personal_business_card) |
-| 02 | **Counter App Extended** | `StatefulWidget`, `setState`, Basic Logic | [View Code](https://github.com/thaisangdang/flutter_counter_app_extended) |
-| 03 | **Dice Roller** | `Expanded` Widget, `dart:math`, Randomization | [View Code](https://github.com/thaisangdang/flutter_dice_roller) |
-| 04 | **Magic 8 Ball** | Boolean Logic, Asset Swapping, State Management | [View Code](https://github.com/thaisangdang/flutter_magic_8_ball) |
-| 05 | **Xylophone Instrument** | External Packages (`audioplayers`), Functions, Refactoring | [View Code](https://github.com/thaisangdang/flutter_xylophone_app) |
-| 06 | **Calculator App** | `GridView.builder`, Complex Algorithms, Parsing | [View Code](https://github.com/thaisangdang/flutter_simple_calculator) |
-| 07 | **BMI Calculator** | Navigation (`Navigator`), Theming, Custom Widgets | [View Code](https://github.com/thaisangdang/flutter_bmi_calculator) |
-| 08 | **Login & Signup UI** | Forms, Validation, `TextEditingController`, Focus Nodes | [View Code](https://github.com/thaisangdang/flutter_login_signup_ui) |
-| 09 | **Restaurant Menu** | `ListView.builder`, Data Models, ListTiles | [View Code](https://github.com/thaisangdang/flutter_restaurant_menu) |
-| 10 | **Onboarding Screens** | `PageView`, `PageController`, `smooth_page_indicator` | [View Code](https://github.com/thaisangdang/flutter_onboarding_screens_ui) |
+| #  | Project Name | Description & Key Concepts | Source Code |
+|----|--------------|----------------------------|-------------|
+| 01 | **Personal Business Card** | A static UI project showcasing how to layout elements using Rows and Columns. <br> **Concepts:** Widget Tree, Assets, Custom Fonts, `Card`. | [View Code](https://github.com/thaisangdang/flutter_personal_business_card) |
+| 02 | **Counter App Extended** | An evolution of the default Flutter app with Decrement, Reset, and safety logic. <br> **Concepts:** `StatefulWidget`, `setState`, Basic Logic. | [View Code](https://github.com/thaisangdang/flutter_counter_app_extended) |
+| 03 | **Dice Roller** | An interactive game introducing randomization. <br> **Concepts:** `Expanded` Widget (Responsiveness), `dart:math`. | [View Code](https://github.com/thaisangdang/flutter_dice_roller) |
+| 04 | **Magic 8 Ball** | A decision-making app that reinforces state management basics. <br> **Concepts:** Boolean Logic, Asset Swapping, State Updates. | [View Code](https://github.com/thaisangdang/flutter_magic_8_ball) |
+| 05 | **Xylophone Instrument** | A musical app playing specific WAV files on tap. <br> **Concepts:** External Packages (`audioplayers`), Functions, Refactoring. | [View Code](https://github.com/thaisangdang/flutter_xylophone_app) |
+| 06 | **Calculator App** | A fully functional calculator that parses math strings. <br> **Concepts:** `GridView.builder`, `math_expressions` package, Algorithms. | [View Code](https://github.com/thaisangdang/flutter_simple_calculator) |
+| 07 | **BMI Calculator** | A multi-screen health app with a custom dark theme. <br> **Concepts:** Navigation (`Navigator`), Data Passing, Separating Logic from UI. | [View Code](https://github.com/thaisangdang/flutter_bmi_calculator) |
+| 08 | **Login & Signup UI** | A production-standard authentication interface. <br> **Concepts:** Form Validation, `TextEditingController`, Focus Nodes, Password Visibility. | [View Code](https://github.com/thaisangdang/flutter_login_signup_ui) |
+| 09 | **Restaurant Menu** | A scrollable list of products using a custom Data Model. <br> **Concepts:** `ListView.builder`, Data Classes, `ListTile`. | [View Code](https://github.com/thaisangdang/flutter_restaurant_menu) |
+| 10 | **Onboarding Screens** | A smooth 3-page intro tutorial seen in modern apps. <br> **Concepts:** `PageView`, `PageController`, `smooth_page_indicator`. | [View Code](https://github.com/thaisangdang/flutter_onboarding_screens_ui) |
 | ...| *More coming soon* | ... | ... |
-
-## 🛠 Project Details
-
-### 1. Personal Business Card
-A static UI project showcasing how to layout elements using Rows and Columns.
-- **Widgets:** `CircleAvatar`, `Card`, `ListTile`, `Divider`.
-- **Learning Outcome:** Understanding the Widget Tree and Asset management.
-
-### 2. Counter App Extended
-An evolution of the default Flutter app. Includes Decrement, Reset, and "Zero Floor" logic.
-- **Widgets:** `FloatingActionButton`, `Row`.
-- **Learning Outcome:** The basics of State management.
-
-### 3. Dice Roller & 4. Magic 8 Ball
-Interactive game apps that introduce randomness.
-- **Widgets:** `Expanded`, `TextButton`.
-- **Learning Outcome:** Handling user input and responsive design with Flex layouts.
-
-### 5. Xylophone
-A musical app that plays specific WAV files on tap.
-- **Packages:** `audioplayers`.
-- **Learning Outcome:** How to use the `pub.dev` ecosystem and refactor repeated code into functions.
-
-### 6. Calculator
-A fully functional calculator that parses math strings.
-- **Packages:** `math_expressions`.
-- **Learning Outcome:** Managing complex grid layouts and string manipulation.
-
-### 7. BMI Calculator
-A multi-screen application with a custom dark theme.
-- **Concepts:** Passing data between screens using the Navigator.
-- **Architecture:** Separation of Logic (`CalculatorBrain`) from UI (`InputPage`).
-
-### 8. Login & Signup System
-A production-standard authentication UI.
-- **Concepts:** Form validation (Email regex, Password length), Password visibility toggles, and matching "Confirm Password" fields.
-
-### 9. Restaurant Menu
-A scrollable list of products using a custom Data Model.
-- **Concepts:** `ListView.builder` for efficient rendering and creating Dart Classes for data structure.
-
-### 10. Onboarding Screens
-A smooth 3-page intro tutorial seen in most modern apps.
-- **Concepts:** Swiping gestures using `PageView` and controlling state with `PageController`.
 
 ## 📘 Master Flutter Architecture
 **Want to go beyond basics?** Check out my premium guide on building a full-scale social application.
