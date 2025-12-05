@@ -34,6 +34,7 @@ A comprehensive collection of Flutter applications demonstrating the journey fro
 | 17 | [**Habit Tracker**](https://github.com/thaisangdang/flutter_habit_tracker) | A routine manager that resets daily.<br> **Concepts:** `Hive` Persistence, Date/Time Logic (`DateTime`), `flutter_slidable`, Initialization Checks. |
 | 18 | [**Drawing Board**](https://github.com/thaisangdang/flutter_drawing_board) | A digital canvas handling touch input.<br> **Concepts:** `CustomPaint`, `CustomPainter`, `GestureDetector`, Path rendering. |
 | 19 | [**Settings Preference App**](https://github.com/thaisangdang/flutter_settings_preference_app) | A configuration screen that saves choices to disk.<br> **Concepts:** `SharedPreferences` (Persistence), Dynamic Theming, Callback Functions, `SwitchListTile`. |
+| 20 | [**Shopping Cart**](https://github.com/thaisangdang/flutter_shopping_cart) | A configuration screen that saves choices to disk.<br> **Concepts:** `Provider` Package, `ChangeNotifier`, `Consumer`, State Management across screens. |
 | ...| *More coming soon* | ... |
 
 ## 📘 Master Flutter Architecture
