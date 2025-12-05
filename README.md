@@ -6,7 +6,7 @@
 
 A comprehensive collection of Flutter applications demonstrating the journey from beginner UI layouts to advanced production-ready architectures. Each project focuses on specific Flutter concepts and widgets.
 
-## 📚 Project Index
+## 📚 Level 1: The Foundation (UI & Basic Logic)
 
 | #  | Project Name | Description & Key Concepts |
 |----|--------------|----------------------------|
@@ -20,6 +20,11 @@ A comprehensive collection of Flutter applications demonstrating the journey fro
 | 08 | [**Login & Signup UI**](https://github.com/thaisangdang/flutter_login_signup_ui) | A production-standard authentication interface. <br> **Concepts:** Form Validation, `TextEditingController`, Focus Nodes, Password Visibility. |
 | 09 | [**Restaurant Menu**](https://github.com/thaisangdang/flutter_restaurant_menu) | A scrollable list of products using a custom Data Model. <br> **Concepts:** `ListView.builder`, Data Classes, `ListTile`. |
 | 10 | [**Onboarding Screens**](https://github.com/thaisangdang/flutter_onboarding_screens_ui) | A smooth 3-page intro tutorial seen in modern apps. <br> **Concepts:** `PageView`, `PageController`, `smooth_page_indicator`. |
+
+## 📚 Level 2: State Management & Local Data
+
+| #  | Project Name | Description & Key Concepts |
+|----|--------------|----------------------------|
 | 11 | [**Todo List**](https://github.com/thaisangdang/flutter_todo_list) | A classic CRUD application for managing daily tasks. <br> **Concepts:** `ListView.builder`, CRUD Operations, Dialogs (`Alert`, `Simple`), State Management. |
 | 12 | [**Digital Clock & Timer**](https://github.com/thaisangdang/flutter_clock_and_timer) | Time management tools handling asynchronous data. <br> **Concepts:** `StreamBuilder` (Live updates), `Timer.periodic`, `intl` date formatting, `TabBar`. |
 | 13 | [**Tic-Tac-Toe**](https://github.com/thaisangdang/flutter_tic_tac_toe) | A classic grid game with win/loss algorithms. <br> **Concepts:** Concepts: `GridView`, Game Logic Algorithms, Dialogs, State Reset. |
