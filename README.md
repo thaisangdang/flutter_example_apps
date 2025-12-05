@@ -27,8 +27,9 @@ A comprehensive collection of Flutter applications demonstrating the journey fro
 |----|--------------|----------------------------|
 | 11 | [**Todo List**](https://github.com/thaisangdang/flutter_todo_list) | A classic CRUD application for managing daily tasks. <br> **Concepts:** `ListView.builder`, CRUD Operations, Dialogs (`Alert`, `Simple`), State Management. |
 | 12 | [**Digital Clock & Timer**](https://github.com/thaisangdang/flutter_clock_and_timer) | Time management tools handling asynchronous data. <br> **Concepts:** `StreamBuilder` (Live updates), `Timer.periodic`, `intl` date formatting, `TabBar`. |
-| 13 | [**Tic-Tac-Toe**](https://github.com/thaisangdang/flutter_tic_tac_toe) | A classic grid game with win/loss algorithms. <br> **Concepts:** Concepts: `GridView`, Game Logic Algorithms, Dialogs, State Reset. |
-| 14 | [**Expense Tracker**](https://github.com/thaisangdang/flutter_expense_tracker) | A finance app handling user input via bottom sheets.  <br> **Concepts:** CConcepts: `showModalBottomSheet`, DateFormating (`intl`), `TextField` controllers. |
+| 13 | [**Tic-Tac-Toe**](https://github.com/thaisangdang/flutter_tic_tac_toe) | A classic grid game with win/loss algorithms. <br> **Concepts:** `GridView`, Game Logic Algorithms, Dialogs, State Reset. |
+| 14 | [**Expense Tracker**](https://github.com/thaisangdang/flutter_expense_tracker) | A finance app handling user input via bottom sheets.  <br> **Concepts:** `showModalBottomSheet`, DateFormating (`intl`), `TextField` controllers. |
+| 15 | [**Note Taking App**](https://github.com/thaisangdang/flutter_note_taking_app) | A persistent text editor using a local NoSQL database.   <br> **Concepts:** `Hive` Database, `ValueListenableBuilder`, `Persistence`, `Grid` Layouts. |
 | ...| *More coming soon* | ... |
 
 ## 📘 Master Flutter Architecture
