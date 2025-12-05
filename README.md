@@ -32,6 +32,7 @@ A comprehensive collection of Flutter applications demonstrating the journey fro
 | 15 | [**Note Taking App**](https://github.com/thaisangdang/flutter_note_taking_app) | A persistent text editor using a local NoSQL database.   <br> **Concepts:** `Hive` Database, `ValueListenableBuilder`, `Persistence`, `Grid` Layouts. |
 | 16 | [**Quiz App**](https://github.com/thaisangdang/flutter_quizz_app) | A True/False trivia game handling complex logic with OOP.<br> **Concepts:** Object Oriented Programming (OOP), Abstraction, Lists, Alert Dialogs. |
 | 17 | [**Habit Tracker**](https://github.com/thaisangdang/flutter_habit_tracker) | A routine manager that resets daily.<br> **Concepts:** `Hive` Persistence, Date/Time Logic (`DateTime`), `flutter_slidable`, Initialization Checks. |
+| 18 | [**Drawing Board**](https://github.com/thaisangdang/flutter_drawing_board) | A digital canvas handling touch input.<br> **Concepts:** `CustomPaint`, `CustomPainter`, `GestureDetector`, Path rendering. |
 | ...| *More coming soon* | ... |
 
 ## 📘 Master Flutter Architecture
