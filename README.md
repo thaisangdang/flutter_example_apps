@@ -30,6 +30,7 @@ A comprehensive collection of Flutter applications demonstrating the journey fro
 | 13 | [**Tic-Tac-Toe**](https://github.com/thaisangdang/flutter_tic_tac_toe) | A classic grid game with win/loss algorithms. <br> **Concepts:** `GridView`, Game Logic Algorithms, Dialogs, State Reset. |
 | 14 | [**Expense Tracker**](https://github.com/thaisangdang/flutter_expense_tracker) | A finance app handling user input via bottom sheets.  <br> **Concepts:** `showModalBottomSheet`, DateFormating (`intl`), `TextField` controllers. |
 | 15 | [**Note Taking App**](https://github.com/thaisangdang/flutter_note_taking_app) | A persistent text editor using a local NoSQL database.   <br> **Concepts:** `Hive` Database, `ValueListenableBuilder`, `Persistence`, `Grid` Layouts. |
+| 16 | [**Quiz App**](https://github.com/thaisangdang/flutter_quizz_app) | A True/False trivia game handling complex logic with OOP.<br> **Concepts:** Object Oriented Programming (OOP), Abstraction, Lists, Alert Dialogs. |
 | ...| *More coming soon* | ... |
 
 ## 📘 Master Flutter Architecture
